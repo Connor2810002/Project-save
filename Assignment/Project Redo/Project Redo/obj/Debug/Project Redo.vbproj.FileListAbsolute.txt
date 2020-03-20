@@ -1,0 +1,18 @@
+C:\Users\cemordy14\AppData\Local\Temporary Projects\Project Redo\obj\Debug\Project Redo.vbprojAssemblyReference.cache
+C:\Users\cemordy14\AppData\Local\Temporary Projects\Project Redo\obj\Debug\Project_Redo.Form1.resources
+C:\Users\cemordy14\AppData\Local\Temporary Projects\Project Redo\obj\Debug\Project_Redo.Resources.resources
+C:\Users\cemordy14\AppData\Local\Temporary Projects\Project Redo\obj\Debug\Project Redo.vbproj.GenerateResource.cache
+C:\Users\cemordy14\AppData\Local\Temporary Projects\Project Redo\obj\Debug\Project Redo.vbproj.CoreCompileInputs.cache
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\bin\Debug\Project Redo.exe.config
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\bin\Debug\Project Redo.exe
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\bin\Debug\Project Redo.pdb
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\bin\Debug\Project Redo.xml
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project Redo.vbprojAssemblyReference.cache
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project_Redo.Form1.resources
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project_Redo.Resources.resources
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project Redo.vbproj.GenerateResource.cache
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project Redo.vbproj.CoreCompileInputs.cache
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project Redo.exe
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project Redo.xml
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\obj\Debug\Project Redo.pdb
+D:\Advanced Higher Computing\Assignment\Project Redo\Project Redo\bin\Debug\Assignment DB.mdb
